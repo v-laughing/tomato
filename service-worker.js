@@ -90,7 +90,7 @@ self.__precacheManifest = [
     "revision": "cbec6b8d8851ac7854304777f9a38b7d"
   },
   {
-    "url": "assets/img/_u4E0B_u8F7D.b26ab2b1.png",
+    "url": "assets/img/u4E0B_u8F7D.b26ab2b1.png",
     "revision": "b26ab2b1961d3d5ec274e95d21b85700"
   },
   {
