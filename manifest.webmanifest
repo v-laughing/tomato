@@ -2,7 +2,7 @@
     "name": "Tomato",
     "short_name": "Tomato",
     "description": "cs note",
-    "start_url": "/index.html",
+    "start_url": "/tomato/",
     "display": "standalone",
     "background_color": "#fff",
     "theme_color": "#3eaf7c",
