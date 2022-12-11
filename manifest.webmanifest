@@ -1,0 +1,21 @@
+{
+    "name": "Tomato",
+    "short_name": "Tomato",
+    "description": "cs note",
+    "start_url": "/tomato/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3eaf7c",
+    "icons": [
+      {
+        "src": "/tomato/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/tomato/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
